@@ -1,0 +1,16 @@
+{
+    "name":"Ronak Gupta",
+    "rollno":"161653",
+    "certificate-level":"10/12/graduation/post-graduation",
+    "board/university":"Full name",
+    "registration-number":"151651",
+
+    "image":{
+
+    },
+    "marks":{
+        "hindi":"68",
+        "english":"78",
+        "science":"87"
+    }
+}
